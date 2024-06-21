@@ -1,0 +1,5 @@
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/obj/Debug/net8.0/ApplicationCore.sourcelink.json
