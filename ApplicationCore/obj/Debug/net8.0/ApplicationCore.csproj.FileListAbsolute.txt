@@ -1,0 +1,12 @@
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/bin/Debug/net8.0/ApplicationCore.deps.json
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/bin/Debug/net8.0/ApplicationCore.dll
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/bin/Debug/net8.0/ApplicationCore.pdb
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/obj/Debug/net8.0/ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfoInputs.cache
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/obj/Debug/net8.0/ApplicationCore.AssemblyInfo.cs
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/obj/Debug/net8.0/ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/obj/Debug/net8.0/ApplicationCore.sourcelink.json
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/obj/Debug/net8.0/ApplicationCore.dll
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/obj/Debug/net8.0/refint/ApplicationCore.dll
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/obj/Debug/net8.0/ApplicationCore.pdb
+/Users/huiyun/Desktop/Antra/MovieApp/ApplicationCore/obj/Debug/net8.0/ref/ApplicationCore.dll
